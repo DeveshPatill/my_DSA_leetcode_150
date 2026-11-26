@@ -5,10 +5,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DeveshPatill/my_DSA_leetcode_150/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/DeveshPatill/my_DSA_leetcode_150/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/DeveshPatill/my_DSA_leetcode_150/tree/master/0056-merge-intervals) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/DeveshPatill/my_DSA_leetcode_150/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/DeveshPatill/my_DSA_leetcode_150/tree/master/0056-merge-intervals) |
 ## Quicksort
 |  |
@@ -18,4 +20,9 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DeveshPatill/my_DSA_leetcode_150/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/DeveshPatill/my_DSA_leetcode_150/tree/master/0049-group-anagrams) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/DeveshPatill/my_DSA_leetcode_150/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
