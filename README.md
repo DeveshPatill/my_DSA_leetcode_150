@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/DeveshPatill/my_DSA_leetcode_150/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/DeveshPatill/my_DSA_leetcode_150/tree/master/0056-merge-intervals) |
 ## Sorting
 |  |
@@ -13,4 +14,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/DeveshPatill/my_DSA_leetcode_150/tree/master/0056-merge-intervals) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/DeveshPatill/my_DSA_leetcode_150/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
