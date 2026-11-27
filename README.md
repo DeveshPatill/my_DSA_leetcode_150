@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DeveshPatill/my_DSA_leetcode_150/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/DeveshPatill/my_DSA_leetcode_150/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/DeveshPatill/my_DSA_leetcode_150/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/DeveshPatill/my_DSA_leetcode_150/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/DeveshPatill/my_DSA_leetcode_150/tree/master/0056-merge-intervals) |
@@ -12,6 +13,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/DeveshPatill/my_DSA_leetcode_150/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/DeveshPatill/my_DSA_leetcode_150/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/DeveshPatill/my_DSA_leetcode_150/tree/master/0056-merge-intervals) |
 ## Quicksort
@@ -39,4 +41,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/DeveshPatill/my_DSA_leetcode_150/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/DeveshPatill/my_DSA_leetcode_150/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
