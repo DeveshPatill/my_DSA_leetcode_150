@@ -11,6 +11,7 @@
 | [0053-maximum-subarray](https://github.com/DeveshPatill/my_DSA_leetcode_150/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/DeveshPatill/my_DSA_leetcode_150/tree/master/0056-merge-intervals) |
 | [0238-product-of-array-except-self](https://github.com/DeveshPatill/my_DSA_leetcode_150/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/DeveshPatill/my_DSA_leetcode_150/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/DeveshPatill/my_DSA_leetcode_150/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/DeveshPatill/my_DSA_leetcode_150/tree/master/0049-group-anagrams) |
+| [0560-subarray-sum-equals-k](https://github.com/DeveshPatill/my_DSA_leetcode_150/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -34,6 +36,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/DeveshPatill/my_DSA_leetcode_150/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/DeveshPatill/my_DSA_leetcode_150/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
